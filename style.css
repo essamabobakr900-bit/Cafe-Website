@@ -396,4 +396,19 @@ header .navbar {
     .menu-section .menu-list .menu-item {
         width: calc(100% / 3 - 60px);
     }
+
+    .menu-section .menu-list .menu-item .menu-image {
+        max-width: 200px;
+    }
+}
+
+/* Responsive media query code for max width 640px*/
+@media screen and (max-width: 640px) {
+    .menu-section .menu-list {
+        gap: 60px;
+    }
+
+    .menu-section .menu-list .menu-item {
+        width: 100%;
+    }
 }
