@@ -284,6 +284,21 @@ header .navbar {
     font-size:var(--font-size-m)
 }
 
+/* Testimonials section styling */
+.testimonials-section {
+    padding: 50px 0 100px;
+    background: var(--light-pink-color);
+}
+
+.testimonials-section .testimonial 
+
+.testimonials-section .testimonial .user-image {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: var(--border-radius-circle);
+}
+
 /* Responsive media query code for max width 1024px */
 @media screen and (max-width: 1024px) {
     .menu-section .menu-list {
