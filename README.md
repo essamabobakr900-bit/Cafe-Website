@@ -1,4 +1,4 @@
-<img width="1629" height="795" alt="Screenshot 2026-06-03 222240" src="https://github.com/user-attachments/assets/ccc786a3-300c-436c-924a-380c855d3778" /># ☕ Café Website Project
+Elnawras Café Website Project
 
 Welcome to the Elnawras café Website project! This is a simple and user-friendly web application for a café where customers can explore the menu, place orders, read reviews, and find all the necessary contact and café information.
 
