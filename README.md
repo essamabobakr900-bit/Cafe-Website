@@ -1,64 +1,20 @@
-Elnawras Café Website Project
+<img width="934" height="395" alt="image" src="https://github.com/user-attachments/assets/07c29ef7-d5fb-4172-a576-4493c46b5b9f" />
 
-Welcome to the Elnawras café Website project! This is a simple and user-friendly website for a café where customers can explore the menu, place orders, read reviews, and find all the necessary contact and café information.
+## Elnawras Cafe Website
 
----
+The shown project is a website made for a cafe to offer easily service for the cosutmer, through providing the menu in the cafe, some reviews about the cafe service or the food itself, and contact form.
 
-## 📌 Features
+## Features
+This website has functional secvices like you can browse a variety of delicious food and drinks, that help you Choose Your favourite dish, View the full restaurant menu with prices.
+Read customer reviews about the restaurant.
+Responsive design that works on desktop, tablet, and mobile devices. (If you like to view the mobile design, you can zoom in from you disktop).
+Modern and user-friendly interface, can reach you out to your desired section from the top bar.
 
-- 🍽️ **Menu / Items to Order**
-  - Browse a variety of food and drinks available at the café.
-  - Each item includes a description and price.
+## Technologies Used
+- HTML5
+- CSS3
+- Font Awesome
+- Google Fonts
 
-- ⭐ **Reviews Section**
-  - Customers can read feedback and reviews about the café experience.
-  - Helps new visitors understand the quality of service and food.
-
-- 📞 **Contact Information**
-  - Multiple ways to reach the café (phone, email, or social media).
-  - Quick access for reservations or inquiries.
-
-- ℹ️ **About the Café**
-  - Information about the café, its story, and its mission.
-  - Highlights what makes the café special.
-
----
-
-## 🕒 Opening Hours
-
-The café is open **all week except Friday**.
-
-- Saturday → Thursday: Open  
-- Friday: Closed
-
----
-
-## 🚀 Purpose of the Project
-
-This project was created to simulate a real café website experience, allowing users to:
-- View available menu items
-- Learn about the café
-- Leave and read reviews
-- Easily contact the café
-
----
-
-## 💡 Technologies Used
-
-- HTML
-- CSS
----
-
-## 📷 Preview
-
-
-
-## 📬 Contact
-
-For questions or feedback, feel free to reach out through the contact section on the website.
-
----
-
-## 📄 License
-
-This project is for educational/demo purposes.
+## Demo link
+https://banderrestaurant.netlify.app/
