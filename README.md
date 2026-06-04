@@ -11,8 +11,8 @@ Responsive design that works on desktop, tablet, and mobile devices. (If you lik
 Modern and user-friendly interface, can reach you out to your desired section from the top bar.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Font Awesome
 - Google Fonts
 
