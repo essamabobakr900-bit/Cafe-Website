@@ -636,7 +636,7 @@ header .navbar {
     font-size: 1rem;
     color: white;
     background-color: orange;
-    border-radius: 12px;
+    border-radius: 10px;
     transition: 0.3s;
     cursor: pointer;
 }
